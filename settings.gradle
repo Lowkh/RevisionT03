@@ -1,0 +1,2 @@
+rootProject.name = "RevT03"
+include ':app'
